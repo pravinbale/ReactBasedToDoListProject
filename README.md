@@ -1,2 +1,2 @@
 # ReactBasedToDoListProject
-Priject added.
+Project added.
